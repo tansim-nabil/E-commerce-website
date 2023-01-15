@@ -1,3 +1,9 @@
-.bg-carousel{
+.bg-caro{
     background-color: #feeae9;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rgb(167, 15, 15);
 }
