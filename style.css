@@ -7,3 +7,47 @@
 .price{
     color: rgb(167, 15, 15);
 }
+.container{
+    padding-bottom: 100px;
+}
+.cat img{
+    width:100px;
+}
+.cat1{
+    
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat10{
+    background-color: #FF9C35;
+    padding: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.cat20{
+    background-color: #4289FF;
+    padding: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.cat30{
+    background-color: #FF589B;
+    padding: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
